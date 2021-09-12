@@ -1,6 +1,5 @@
 aiohttp
 anytree
-aria2p
 appdirs
 beautifulsoup4
 cloudscrape
@@ -11,7 +10,6 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 heroku3
-html-telegraph-poster
 js2py
 lk21
 lxml
@@ -31,8 +29,6 @@ tenacity
 TgCrypto
 torrentool
 urllib3
-youtube_dl
-yt-dlp
 quoters
 pyshorteners
 youtube_dl
